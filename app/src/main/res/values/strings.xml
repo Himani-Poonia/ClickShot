@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClickShot</string>
+    <string name="login">Login</string>
+    <string name="orSignup">Or, Sign Up</string>
+    <string name="signup">Sign Up</string>
+    <string name="orLogin">Or, Login</string>
+</resources>

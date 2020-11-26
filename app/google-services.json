@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "867322385729",
+    "firebase_url": "https://clickshot-644cb.firebaseio.com",
+    "project_id": "clickshot-644cb",
+    "storage_bucket": "clickshot-644cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867322385729:android:f2aa96a237a1c4f290bdc0",
+        "android_client_info": {
+          "package_name": "com.example.clickshot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867322385729-kesrp3bsppq9dro67r20r4li1dp9t7t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSGnsmRyEayaVVoplHR6oTmVwzifB804Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867322385729-kesrp3bsppq9dro67r20r4li1dp9t7t1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
